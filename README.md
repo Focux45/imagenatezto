@@ -1,1 +1,1 @@
-# imagenatezto
+# Reconocimiento Óptico de Caracteres
